@@ -329,9 +329,10 @@ nav a{
     background: #F5F5F5;
     padding: 30px;
     transition: 0.6s;
-    margin-bottom: 20px;
+    margin: 10px 0;
     background-position-y: 15px;
     background-size: 289px auto;
+    z-index: 1;
 }
 
 .kard-top{
@@ -389,6 +390,9 @@ nav a{
 .section1-kard:hover{
     width: 289px;
     height: 454px;
+    z-index: 12;
+    box-shadow: 0px 20px 50px 0px #0000001A;
+    margin: -40px 0;
 }
 
 .section1-kard:hover a{
