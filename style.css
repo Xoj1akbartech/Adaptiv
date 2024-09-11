@@ -1679,4 +1679,48 @@ footer .container{
         padding: 8px;
         margin: 0;
     }
+
+    .section4 {
+        height: 950px;
+        vertical-align: bottom;
+        padding: 0;
+        background-size: 320px 268px;
+        margin-top: 40px;
+    }
+
+    .section4 h2{
+         font-size: 25px;
+    }
+
+    .section4 p{
+        font-size: 15px;
+    }
+
+    .section5-box{
+        width: 279px;
+        height: 439px;
+    }
+
+    .section5-box p{
+        font-size: 15px;
+    }
+
+    .section5 h2{
+        font-size: 25px;
+    }
+
+    .section5-man{
+        margin-left: -40%;
+    }
+
+    .section6 h2{
+        font-size: 25px;
+        
+    }
+
+    .section6 {
+        font-size: 17px;
+    }
+
+
 }
